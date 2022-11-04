@@ -1,4 +1,5 @@
 # html-fund-me-fcc
+This is minimalistic frontend demo to inteact with the fund_me contract. For contracts check [here](https://github.com/SaikrishnaReddy1919/hardhat_fund_me)
 
 # Requirements
 
